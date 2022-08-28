@@ -1,0 +1,33 @@
+body {
+    background: lightgoldenrodyellow;
+    margin-left: 40%;
+    
+}
+
+.fund{
+    margin-top: 10%;
+}
+button {
+    background: palegreen;
+    padding: 10px;
+    min-width: 100px;
+    
+
+}
+#connectButton{
+    position: absolute;
+    top: 8px;
+    right:16px;
+    min-width: 100px;
+
+}
+#withdrawButton{
+    background-color: palevioletred;    
+}
+
+#balanceButton{
+    margin-top:2%;
+}
+ul{
+    text-align: left;
+}
